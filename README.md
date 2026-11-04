@@ -1,8 +1,12 @@
 # Hey there! I'm Abdul Wahab🎉
 
-## Who am I?
+## 👨‍💻 Who am I?
 
-Just a curious **Full‑Stack Developer** who loves turning ideas into fun, working apps. I spend my days coding in Python and Dart, building web stuff with Django and Flutter, and tinkering with machine‑learning experiments when inspiration hits.
+A **Full‑Stack Developer** based in Pakistan who got into coding out of pure curiosity and never really stopped. I enjoy the full spectrum — from writing backend logic in Django to wiring up physical circuits on a breadboard. If it can be automated, connected, or improved, I'm probably already thinking about how.
+
+By day I build and ship software. By night I'm either debugging something, pulling apart a device to see how it works, or losing a ranked match and blaming the lag. I genuinely love the craft — the problem solving, the occasional "wait, that actually worked?" moment, and the satisfaction of shipping something clean.
+
+I'm big on open source, comfortable on Linux, and always a few rabbit holes deep into something interesting.
 
 ---
 
@@ -58,19 +62,22 @@ Just a curious **Full‑Stack Developer** who loves turning ideas into fun, work
 
 ## 🌱 Hobbies & Passions
 
-- **Open‑source hacking** – love contributing fixes or new features to community projects.
-- **Automotive tinkering** – car tech, diagnostics, and DIY upgrades are my kind of weekend.
-- **Gaming** – love unwinding with new releases and classic multiplayer sessions.
-- **Music** – always got something playing in the background while I code.
+- 🔓 **Open‑source hacking** – love contributing fixes or new features to community projects.
+- 🚗 **Automotive tinkering** – car tech, diagnostics, and DIY upgrades are my kind of weekend.
+- 🎮 **Gaming** – love unwinding with new releases and classic multiplayer sessions.
+- 🎧 **Music** – always got something playing in the background while I code.
+- 🔌 **IoT builds** – making everyday objects smarter, one MQTT message at a time.
+- 🛠️ **Custom circuits** – breadboards, soldering irons, and the occasional magic smoke — it's all part of the process.
+- 🤖 **Embedded tinkering** – flashing firmware on microcontrollers and watching hardware come to life is genuinely one of the best feelings.
 
 ---
 
 ## 🤝 Let's Connect
 
-- **Open to:** Freelance gigs, open‑source collabs, and interesting side‑projects.
-- **Email:** [abdulwahab1345@proton.me](mailto:abdulwahab1345@proton.me)
-- **LinkedIn:** [linkedin.com/in/capkenway](https://www.linkedin.com/in/capkenway)
-- **GitHub:** [github.com/capkenway](https://github.com/capkenway)
+- 💼 **Open to:** Freelance gigs, open‑source collabs, and interesting side‑projects.
+- 📬 **Emails:** [abdulwahab1345@proton.me](mailto:abdulwahab1345@proton.me), [abdulwahab1345@gmail.com](mailto:abdulwahab1345@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/capkenway](https://www.linkedin.com/in/capkenway)
+- 🐙 **GitHub:** [github.com/capkenway](https://github.com/capkenway)
 
 ---
 
