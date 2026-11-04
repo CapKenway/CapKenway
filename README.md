@@ -45,6 +45,7 @@ I'm big on open source, comfortable on Linux, and always a few rabbit holes deep
 
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-FF6600?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![VS Codium](https://img.shields.io/badge/VS_Codium-007ACC?style=for-the-badge&logo=vscodium&logoColor=white)
 
