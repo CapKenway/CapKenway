@@ -1,4 +1,4 @@
-# Hey there! I'm Abdul 🎉
+# Hey there! I'm Abdul Wahab🎉
 
 ## Who am I?
 
